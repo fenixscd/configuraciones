@@ -1,2 +1,5 @@
 [core]
 	excludesfile = /home/samuel/.gitignore_global
+[user]
+	email = fenixscd@gmail.com
+	name = Samuel
